@@ -18,8 +18,8 @@ pip install -r requirements.txt
 streamlit run app.py
 
 ##Models
-ollama pull mistral
-ollama pull llama3
-ollama pull gemma
-ollama pull codellama
-ollama pull phi
+- ollama pull mistral
+- ollama pull llama3
+- ollama pull gemma
+- ollama pull codellama
+- ollama pull phi
